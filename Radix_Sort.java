@@ -1,5 +1,4 @@
 //基数排序
-package sort;
 
 import java.util.ArrayList;
 import java.util.Scanner;
