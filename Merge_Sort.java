@@ -1,5 +1,4 @@
 //归并排序
-package sort;
 
 import java.util.Scanner;
 
